@@ -27,4 +27,23 @@
 注释
 ~~~~~~
 
+文件注释
+--------
 
+.. code-block:: c
+   :caption: file comments
+   :linenos:
+
+    /**
+    * @file 
+    * 
+    * @brief 
+    * 
+    * @copyright Copyright (c) 2021 Quectel Wierless Solution,Co.,Ltd. All Rights Reserved.
+    * 
+    * ============================== EDIT HISTORY FOR MODULE ==============================
+    * This section contains comments describing the changes made to the module.
+    * Notice that the latest change comment should be at the bottom.
+    * WHEN         WHO                 WHAT,WHERE,WHY
+    * ----------   -----------------   ----------------------------------------------------
+    */
