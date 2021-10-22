@@ -21,4 +21,3 @@ Welcome to Quectel Location Team Development Rules's documentation!
    :caption: 记录
 
    history
-   member
