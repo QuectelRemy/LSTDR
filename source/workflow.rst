@@ -6,13 +6,13 @@
 需求开发工作流
 ~~~~~~~~~~~~~~
 
-.. image:: ./media/流程图.jpeg
+.. image:: ./media/需求开发工作流.png
     :align: center
     :alt: 图 [需求开发工作流]
 
 缺陷修复工作流
 ~~~~~~~~~~~~~~
 
-.. image:: ./media/流程图.jpeg
+.. image:: ./media/缺陷修复工作流.png
     :align: center
     :alt: 图 [缺陷修复工作流]
