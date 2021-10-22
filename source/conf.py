@@ -48,6 +48,11 @@ language = 'zh_CN'
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+latex_engine = 'xelatex'
+latex_elements = {
+    'papersize': 'a4paper',
+    'pointsize': '11pt',
+}
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -60,7 +65,3 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-latex_elements = {
-  'extraclassoptions': 'openany,oneside'
-}
